@@ -1,12 +1,11 @@
 # login
 使用C#写出的HTML注册界面
-
 1. 开发环境与工具
-开发工具：Visual Studio 2022（社区版）
+开发工具：Visual Studio 2026（社区版）
 
 框架：.NET 8.0 (ASP.NET Core MVC)
 
-数据库：MySQL 8.0（远程服务器 192.168.31.31）
+数据库：MySQL 8.0（本地服务器 192.168.31.31）
 
 NuGet 包：
 
