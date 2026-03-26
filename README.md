@@ -1,4 +1,4 @@
-# login
+# register
 使用C#写出的HTML注册界面
 下载压缩包并解压后，可点击job.slnx，使用Visual Studio进行开发
 1. 开发环境与工具
